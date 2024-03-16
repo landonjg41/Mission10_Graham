@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APImission10.props" />
+</Project>
